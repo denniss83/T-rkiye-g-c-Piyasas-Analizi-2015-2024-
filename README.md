@@ -40,5 +40,5 @@ Amaç bu göstergelerin yıllara göre değişimini görselleştirmek, araların
 issizlikoran.csv — Temel veri dosyaları
 
 ## 🧠 Hazırlayan
-Deniz Atabey
-Bu proje, Python ve pandas kütüphanesi kullanılarak Google Colab üzerinde hazırlanmıştır. Veri kaynakları TUIK'ten alınmıştır.
+- Deniz Atabey
+- Bu proje, Python ve pandas kütüphanesi kullanılarak Google Colab üzerinde hazırlanmıştır. Veri kaynakları TUIK'ten alınmıştır.
