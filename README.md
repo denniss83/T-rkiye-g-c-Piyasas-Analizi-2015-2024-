@@ -1,4 +1,4 @@
-📊 Türkiye İşgücü Piyasası Analizi (2015–2024)
+#📊 Türkiye İşgücü Piyasası Analizi (2015–2024)
 
 >⚠️ Uyarı
 >Bu proje, Python programlama dili ve veri analizi becerilerini geliştirme amacıyla hazırlanmıştır.
