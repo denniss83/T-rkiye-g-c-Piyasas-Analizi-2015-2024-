@@ -6,8 +6,8 @@
 >Veri girişindeki veya temizleme sürecindeki hatalar analiz sonuçlarını etkileyebilir.
 >Bu nedenle bulgular yalnızca eğitim amaçlıdır, resmi ya da akademik kararlar için uygun değildir.
 
-📌 Proje Amacı
-Bu çalışmada, Türkiye’de 2015–2024 yılları arasında işgücü piyasasına ait dört temel gösterge analiz edilmiştir:
+🎯 Proje Amacı
+Türkiye’de 2015–2024 yılları arasında işgücü piyasasına ait dört temel gösterge analiz edilmiştir:
 
 İstihdam (Bin Kişi)
 
@@ -17,26 +17,37 @@ Bu çalışmada, Türkiye’de 2015–2024 yılları arasında işgücü piyasas
 
 İşsizlik Oranı (%) ve Hesaplanan İşsiz Sayısı
 
-Amaç, bu göstergelerin yıllara göre değişimini görselleştirmek, aralarındaki ilişkileri incelemek ve temel ekonomik eğilimleri ortaya koymaktır.
+Amaç; bu göstergelerin yıllara göre değişimini görselleştirmek, aralarındaki ilişkileri incelemek ve temel ekonomik eğilimleri gözlemlemektir.
 
-📈 Yapılan Analizler
+📈 Uygulanan Analizler
 İşsizlik Oranı Trend Analizi
 
 İstihdam – İşgücü – İşsiz Sayısı Karşılaştırması
 
-İşgücü Piyasası Göstergelerinin Yıllara Göre Dağılımı
+İşgücü Piyasası Göstergelerinin Zaman Serisi
 
 İşsiz Sayısı Yıllık Değişim Oranı (%)
 
-Korelasyon (İstihdam, İşgücü, Dahil Olmayanlar, İşsizlik Oranı)
+Korelasyon Analizi
 
-🛠️ Kullanılan Teknolojiler
+🧰 Kullanılan Teknolojiler
 Python (Pandas, Matplotlib, Seaborn)
 
 Google Colab
 
-CSV Veri Girişleri (TÜİK / Manuel)
+CSV formatında TÜİK verileri (manuel girildi)
 
-🧠 Hazırlayan
+📁 Dosya Yapısı
+türkiye_i̇şgücü_piyasası_analizi_(2015–2024).py — Analiz ve görselleştirme kodları
+
+istihdam.csv
+
+isgucu.csv
+
+dahilolmayan.csv
+
+issizlikoran.csv — Temel veri dosyaları
+
+##🧠 Hazırlayan
 Deniz Atabey
 Bu proje, Python ve pandas kütüphanesi kullanılarak Google Colab üzerinde hazırlanmıştır. Veri kaynakları TUIK'ten alınmıştır.
